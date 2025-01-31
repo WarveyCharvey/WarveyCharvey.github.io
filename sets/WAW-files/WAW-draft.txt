@@ -963,7 +963,7 @@
 		{
 			"name": "Pull of the Unknown",
 			"rarity": "common",
-			"mana_cost": "{1{U}/B}",
+			"mana_cost": "{1}{U/B}",
 			"type": "Kindred Instant — Wonder ",
 			"collector_number": "222",
 			"image_uris": {
@@ -1013,7 +1013,7 @@
 		{
 			"name": "Silent Reposid",
 			"rarity": "common",
-			"mana_cost": "{1{W}/B}",
+			"mana_cost": "{1}{W/B}",
 			"type": "Creature — Wonder ",
 			"collector_number": "224",
 			"image_uris": {
@@ -1023,7 +1023,7 @@
 		{
 			"name": "Spectral Blade",
 			"rarity": "common",
-			"mana_cost": "{1{R}/W}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Kindred Artifact — Wonder Equipment ",
 			"collector_number": "226",
 			"image_uris": {
@@ -1173,7 +1173,7 @@
 		{
 			"name": "Brazen Confidence",
 			"rarity": "common",
-			"mana_cost": "{1{B}/R}{B/R}",
+			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Kindred Enchantment — Wonder Aura ",
 			"collector_number": "214",
 			"image_uris": {
@@ -1593,7 +1593,7 @@
 		{
 			"name": "Skredhound",
 			"rarity": "common",
-			"mana_cost": "{1{U}/R}{U/R}",
+			"mana_cost": "{1}{U/R}{U/R}",
 			"type": "Creature — Wonder Wolf ",
 			"collector_number": "225",
 			"image_uris": {
