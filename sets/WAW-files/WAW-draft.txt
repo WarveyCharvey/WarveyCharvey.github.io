@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon ",
-			"collector_number": "20",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/20_Dragon Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/16_Dragon Token.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "17",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/17_Memory of Home.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/13_Memory of Home.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit ",
-			"collector_number": "19",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/19_Spirit Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/15_Spirit Token.png"
 			}
 		},
 		{
@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment",
-			"collector_number": "23",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/23_Story of a Dead Plane.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/21_Story of a Dead Plane.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wonder Archon ",
-			"collector_number": "24",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/24_Wonder Archon Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/22_Wonder Archon Token.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Token Creature — Wonder Elf Knight ",
-			"collector_number": "2",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/2_New Tensuo Luminary Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/5_New Tensuo Luminary Token;.png"
 			}
 		},
 		{
@@ -875,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Wonder Fish ",
-			"collector_number": "12",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/12_Lakebed Wrudge Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/9_Lakebed Wrudge Token;.png"
 			}
 		},
 		{
@@ -963,7 +963,7 @@
 		{
 			"name": "Pull of the Unknown",
 			"rarity": "common",
-			"mana_cost": "{1}{U/B}",
+			"mana_cost": "{1{U}/B}",
 			"type": "Kindred Instant — Wonder ",
 			"collector_number": "222",
 			"image_uris": {
@@ -972,7 +972,7 @@
 		},
 		{
 			"name": "Rapturous Joy",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura ",
 			"collector_number": "31",
@@ -1013,7 +1013,7 @@
 		{
 			"name": "Silent Reposid",
 			"rarity": "common",
-			"mana_cost": "{1}{W/B}",
+			"mana_cost": "{1{W}/B}",
 			"type": "Creature — Wonder ",
 			"collector_number": "224",
 			"image_uris": {
@@ -1023,7 +1023,7 @@
 		{
 			"name": "Spectral Blade",
 			"rarity": "common",
-			"mana_cost": "{1}{R/W}",
+			"mana_cost": "{1{R}/W}",
 			"type": "Kindred Artifact — Wonder Equipment ",
 			"collector_number": "226",
 			"image_uris": {
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"name": "Starsea Diver",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Bird ",
 			"collector_number": "34",
@@ -1143,11 +1143,11 @@
 		{
 			"name": "Beast Token",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "",
 			"type": "Token Creature — Beast ",
-			"collector_number": "4",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/4_Beast Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/17_Beast Token.png"
 			}
 		},
 		{
@@ -1173,7 +1173,7 @@
 		{
 			"name": "Brazen Confidence",
 			"rarity": "common",
-			"mana_cost": "{1}{B/R}{B/R}",
+			"mana_cost": "{1{B}/R}{B/R}",
 			"type": "Kindred Enchantment — Wonder Aura ",
 			"collector_number": "214",
 			"image_uris": {
@@ -1203,7 +1203,7 @@
 		{
 			"name": "Citadel Repository",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "151",
 			"image_uris": {
@@ -1215,19 +1215,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Token Creature — Wonder Drake ",
-			"collector_number": "5",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/5_Cloudeater Drake token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/8_Cloudeater Drake token;.png"
 			}
 		},
 		{
 			"name": "Copy",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "",
 			"type": "Token",
-			"collector_number": "6",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/6_Copy.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/2_Copy.png"
 			}
 		},
 		{
@@ -1253,11 +1253,11 @@
 		{
 			"name": "Demon Token",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "",
 			"type": "Token Creature — Demon ",
-			"collector_number": "7",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/7_Demon Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/12_Demon Token.png"
 			}
 		},
 		{
@@ -1284,7 +1284,7 @@
 			"name": "Etchings on the Citadel Walls",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Legendary Enchantment",
+			"type": "Enchantment",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/48_Etchings on the Citadel Walls.png"
@@ -1323,21 +1323,21 @@
 		{
 			"name": "Flowering Germinus Token",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1{G}/W}{G/W}",
 			"type": "Token Creature — Wonder  ",
-			"collector_number": "8",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/8_Flowering Germinus Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/24_Flowering Germinus Token.png"
 			}
 		},
 		{
-			"name": "Gilded Ancient",
+			"name": "Gilded Ancient Token;",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{5}{G}",
 			"type": "Token Creature — Wonder Cat ",
-			"collector_number": "9",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/9_Gilded Ancient.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/18_Gilded Ancient Token;.png"
 			}
 		},
 		{
@@ -1373,11 +1373,11 @@
 		{
 			"name": "Ilcan Keyseeker",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{W}",
 			"type": "Token Creature — Wonder Human Wizard ",
-			"collector_number": "10",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/10_Ilcan Keyseeker.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/3_Ilcan Keyseeker.png"
 			}
 		},
 		{
@@ -1403,11 +1403,11 @@
 		{
 			"name": "Kindly Skywinder Token;",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{W}",
 			"type": "Token Creature — Wonder Drake ",
-			"collector_number": "11",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/11_Kindly Skywinder Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/4_Kindly Skywinder Token;.png"
 			}
 		},
 		{
@@ -1455,9 +1455,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Token Enchantment Creature — Wonder ",
-			"collector_number": "13",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/13_Music of the Deepholt Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/10_Music of the Deepholt Token;.png"
 			}
 		},
 		{
@@ -1475,19 +1475,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Token Creature — Wonder Elf Cleric ",
-			"collector_number": "18",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/18_New Tensuo Clergy Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/14_New Tensuo Clergy Token;.png"
 			}
 		},
 		{
 			"name": "New Tensuo Vanguard Token;",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{4}{W}",
 			"type": "Token Creature — Wonder Elf Knight ",
-			"collector_number": "14",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/14_New Tensuo Vanguard Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/6_New Tensuo Vanguard Token;.png"
 			}
 		},
 		{
@@ -1593,7 +1593,7 @@
 		{
 			"name": "Skredhound",
 			"rarity": "common",
-			"mana_cost": "{1}{U/R}{U/R}",
+			"mana_cost": "{1{U}/R}{U/R}",
 			"type": "Creature — Wonder Wolf ",
 			"collector_number": "225",
 			"image_uris": {
@@ -1644,7 +1644,7 @@
 			"name": "The Deepmist Record",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/46_The Deepmist Record.png"
@@ -1723,11 +1723,11 @@
 		{
 			"name": "Wonder Token",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "",
 			"type": "Token Creature — Wonder  ",
-			"collector_number": "16",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/16_Wonder Token.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/23_Wonder Token.png"
 			}
 		},
 		{
@@ -1960,7 +1960,7 @@
 		{
 			"name": "Khiare, Last of the Lost",
 			"rarity": "mythic",
-			"mana_cost": "{3}",
+			"mana_cost": "{4}",
 			"type": "Legendary Creature — Survivor ",
 			"collector_number": "4",
 			"image_uris": {
@@ -2021,7 +2021,7 @@
 			"name": "Numberless Procession",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}{G}",
-			"type": "Creature — Drake ",
+			"type": "Creature — Wonder Drake ",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/199_Numberless Procession.png"
@@ -2072,9 +2072,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Token Creature — Wonder Jellyfish ",
-			"collector_number": "15",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/15_Redefinition.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/11_Redefinition.png"
 			}
 		},
 		{
@@ -2122,9 +2122,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Token Enchantment Creature — Wonder ",
-			"collector_number": "3",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/3_Stardust Haze Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/7_Stardust Haze Token;.png"
 			}
 		},
 		{
@@ -2522,9 +2522,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Token Creature — Wonder Elf Druid ",
-			"collector_number": "21",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/21_New Tensuo Physician Token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/19_New Tensuo Physician Token;.png"
 			}
 		},
 		{
@@ -2642,9 +2642,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Token Creature — Wonder Salamander ",
-			"collector_number": "22",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/22_Vrep token;.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/20_Vrep token;.png"
 			}
 		},
 		{
@@ -3011,8 +3011,8 @@
 9 Olse, Steward of Ilcae's Ember
 9 Outclass
 9 Overeager Researcher
+9 Rapturous Joy
 9 Secrets of the Citadel
-9 Starsea Diver
 9 Tall-Tale Salesman
 9 Unbound Troubador
 9 Blossoming Conscience
@@ -3102,11 +3102,11 @@
 30 New Tensuo Spy
 30 Playful Skulk
 30 Pull of the Unknown
-30 Rapturous Joy
 30 Rootway Delver
 30 Rotting Structure
 30 Silent Reposid
 30 Spectral Blade
+30 Starsea Diver
 30 Tactical Diversion
 30 Ultimate Price
 30 Wish for Peace
