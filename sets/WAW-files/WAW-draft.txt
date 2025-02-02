@@ -71,13 +71,13 @@
 			}
 		},
 		{
-			"name": "Deepholt Gateway",
+			"name": "Underholt Gateway",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/241_Deepholt Gateway.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/259_Underholt Gateway.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/245_Megaflora Floodplain.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/244_Megaflora Floodplain.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/246_New Tensuo Colony.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/245_New Tensuo Colony.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/247_Opulent Labyrinth.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/246_Opulent Labyrinth.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/248_Promising Hillside.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/247_Promising Hillside.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/249_Promising Lagoon.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/248_Promising Lagoon.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/250_Promising Plume.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/249_Promising Plume.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/251_Promising Ruin.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/250_Promising Ruin.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/252_Promising Thicket.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/251_Promising Thicket.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/254_Skyview Zenith.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/253_Skyview Zenith.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Kindred Land — Spirit ",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/255_Splinter of Ilcae.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/254_Splinter of Ilcae.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/257_Starsea Nadir.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/256_Starsea Nadir.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/258_Stonewrought Hall.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/257_Stonewrought Hall.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/259_Surreal Highlands.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/258_Surreal Highlands.png"
 			}
 		},
 		{
@@ -304,7 +304,7 @@
 			"name": "The Citadel",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land",
+			"type": "Land — Mountain ",
 			"collector_number": "238",
 			"image_uris": {
 				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/238_The Citadel.png"
@@ -314,10 +314,10 @@
 			"name": "The Deepmists",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "242",
+			"type": "Land — Island ",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/242_The Deepmists.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/241_The Deepmists.png"
 			}
 		},
 		{
@@ -325,39 +325,39 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/243_The Heart of Ischav.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/242_The Heart of Ischav.png"
 			}
 		},
 		{
 			"name": "The Holt",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "244",
+			"type": "Land — Forest ",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/244_The Holt.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/243_The Holt.png"
 			}
 		},
 		{
 			"name": "The Skyview",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "253",
+			"type": "Land — Plains ",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/253_The Skyview.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/252_The Skyview.png"
 			}
 		},
 		{
 			"name": "The Starsea",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "256",
+			"type": "Land — Swamp ",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/256_The Starsea.png"
+				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/255_The Starsea.png"
 			}
 		},
 		{
@@ -3159,7 +3159,7 @@
 10 Branching Grotto
 10 Citadel Chapel
 10 Citadel Observatory
-10 Deepholt Gateway
+10 Underholt Gateway
 10 Megaflora Floodplain
 10 New Tensuo Colony
 10 Opulent Labyrinth
@@ -3416,7 +3416,7 @@
 10 Alpine Borderholt
 10 Aurora-Lit Valley
 10 Citadel Chapel
-10 Deepholt Gateway
+10 Underholt Gateway
 10 Megaflora Floodplain
 10 Opulent Labyrinth
 10 Skyview Zenith
