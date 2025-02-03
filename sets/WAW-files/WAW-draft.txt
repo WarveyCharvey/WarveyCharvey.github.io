@@ -1053,7 +1053,7 @@
 		{
 			"name": "Tactical Diversion",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
@@ -1284,7 +1284,7 @@
 			"name": "Etchings on the Citadel Walls",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment",
+			"type": "Legendary Enchantment",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://WarveyCharvey.github.io/sets/WAW-files/img/48_Etchings on the Citadel Walls.png"
@@ -1643,7 +1643,7 @@
 		{
 			"name": "The Deepmist Record",
 			"rarity": "mythic",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{4}{U}",
 			"type": "Instant",
 			"collector_number": "46",
 			"image_uris": {
